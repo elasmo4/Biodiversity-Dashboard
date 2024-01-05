@@ -7,7 +7,7 @@
 >
 > [website](https://elasmo4.github.io/Biodiversity-Dashboard/)
 >
-> ![Biodiversity-Dashboard](Biodiversity-Dashboard-Capture.png)
+> ![Biodiversity-Dashboard](Biodiversity-Dashboard-Capture.PNG)
 
 
 <h5>Modules Utilized</h5>
