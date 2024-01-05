@@ -2,7 +2,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Website: 
-[website]([tasha.christensen44@gmail.com](https://elasmo4.github.io/Biodiversity-Dashboard/))
+[website](https://elasmo4.github.io/Biodiversity-Dashboard/)
 
 ## Description
 Module 14 Challenge
