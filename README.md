@@ -21,7 +21,7 @@
 >
 > Usage: Edudcational purposes only
 >
-> References: Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: (http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
+> References: Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 > 
 > Projects in Biodiversity-Dashboard were completed with help from tutors, which may contain outside curriculum content.
 
