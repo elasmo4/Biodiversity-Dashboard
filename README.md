@@ -1,5 +1,4 @@
 <h3>Biodiversity-Dashboard</h3>
-![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 <h5>Code Location and Related</h5>
 
