@@ -5,7 +5,7 @@
 
 > The Biodiversity-Dashboard skeletal code can be found by navigating to the "static/js" folder and then selecting the "app.js" file
 >
-> [Deploy Live Website by Clicking Here](https://elasmo4.github.io/Biodiversity-Dashboard/)
+> Deploy Live Website by Clicking [Here](https://elasmo4.github.io/Biodiversity-Dashboard/)
 >
 > ![Biodiversity-Dashboard](Biodiversity-Dashboard-Capture.PNG)
 
