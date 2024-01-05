@@ -14,7 +14,7 @@
 > D3 library, Plotly
 > 
 
-<h5>Code source and usage:</h5>
+<h5>Code source and Usage:</h5>
 
 > Credit: Tasha Christensen
 >
