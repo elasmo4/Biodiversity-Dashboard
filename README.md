@@ -39,13 +39,3 @@ If there are any questions or concerns, I can be reached at:
 > [github: elasmo4](https://github.com/elasmo4)
 >
 > [email: tasha.christensen44@gmail.com](mailto:tasha.christensen44@gmail.com)
-
-
-
-
-
-<h3>Matplotlib-Challenge</h3>
-<h5>Code location:</h5>
-
-> The Pymaceuticals project can be found by selecting the "pymaceuticals.ipynb" file above.
-> 
