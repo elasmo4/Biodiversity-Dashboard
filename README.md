@@ -29,7 +29,7 @@
 
 > Biodiversity-Dashboard provides a clickable dashboard and
 > 
-> Visitors should check that the dashboard displays upon launching URL
+> Visitors should check that the dashboard displays upon launching URL made available above.
 > 
 
 <h5>Contact:</h5>
