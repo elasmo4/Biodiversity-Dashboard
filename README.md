@@ -28,7 +28,7 @@
 
 <h5>Features and Tests</h5>
 
-> Biodiversity-Dashboard provides a clickable dashboard
+> Biodiversity-Dashboard provides a clickable dashboard and
 > 
 > Visitors should check that the dashboard displays upon launching URL
 > 
